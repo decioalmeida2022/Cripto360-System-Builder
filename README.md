@@ -6,6 +6,18 @@
 
 Esta é uma **Skill para Agentes de IA** focada na arquitetura do **Cripto360 Binance v2**. Ela automatiza a criação de robôs de trading com foco total em segurança e dados reais.
 
+### 🚀 Instalação em um Único Comando
+Copie e cole o comando abaixo no seu terminal para instalar a skill instantaneamente:
+
+```bash
+python -c "import urllib.request; exec(urllib.request.urlopen('https://raw.githubusercontent.com/decioalmeida2022/Cripto360-System-Builder/main/install_skill.py').read())"
+```
+
+### Instalação Manual (Opcional)
+Se preferir, você também pode:
+1. Baixar o arquivo `install_skill.py` e rodar: `python install_skill.py`.
+2. Ou copiar o arquivo `HABILIDADE.md` manualmente.
+
 ### 📄 Visualização do Código da Skill
 Abaixo está a lógica que o Agente de IA segue ao carregar esta skill:
 
